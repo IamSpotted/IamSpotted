@@ -10,7 +10,7 @@ I’m passionate about IT and cybersecurity, and I enjoy building solutions that
 [![CompTIA A+](https://images.credly.com/size/160x160/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob)](https://www.credly.com/badges/d10c1fa5-c0fd-4991-a165-91228e0acbec/public_url)
 [![GSEC](https://images.credly.com/size/160x160/images/8e6bde54-8a33-4ec0-9d70-90fcde581bcf/image.png)](https://www.credly.com/badges/1fa80d7e-0087-466a-baf4-0a47ca2c1005/public_url)
 [![GCIH](https://images.credly.com/size/160x160/images/c3e2745b-2f30-4e6b-9290-f7557a705181/image.png)](https://www.credly.com/badges/be63f763-4726-4c47-859e-12eea6d39317/public_url)
-[![CEH](https://images.credly.com/aaaaa.png)](https://www.credly.com/badges/aaaaa/view)
+[![CEH](/Assets/Badges/CEH.png)]([https://www.credly.com/badges/aaaaa/view](https://aspen.eccouncil.org/Certificate/Certificate?a=eof6foV0K5/d/w5hmSyIRQ==))
   
 
 ---
