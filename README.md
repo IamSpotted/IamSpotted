@@ -1,32 +1,62 @@
-# <a href="https://www.linkedin.com/in/joshmadakor/">Josh Madakor</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/jon-uldrick/">Jon Uldrick</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius: 50%;" />
+</p>
 
+I’m passionate about IT and cybersecurity, and I enjoy building solutions that solve real-world problems. My portfolio highlights my most significant project — an application built with .NET MAUI — along with my ongoing work in the Cyber Range, where I practice and document vulnerability management, threat hunting, and other security operations skills.  
 
-## ⚠️ Vulnerability Management Projects
+### 📜 Certifications  
+- CompTIA A+  
+- GIAC Security Essentials (GSEC)  
+- GIAC Certified Incident Handler (GCIH)  
+- EC-Council Certified Ethical Hacker (CEH)  
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+---
 
-## 🚨 Threat Hunting and Security Operations
+## 📱 MAUI Application — ITSF App (V2.1)
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[ITSF Application (V2.1)](https://github.com/IamSpotted/ITSF-App-V2.1)**  
+  A cross-platform .NET MAUI application developed for IT operations and automation.  
+  - Modular framework for managing and executing PowerShell and Batch scripts  
+  - Networking tools (multi-device ping dashboard, DNS lookups, etc.)  
+  - Remote management features integrated into a clean GUI  
+  - Designed for scalability and long-term maintainability (SOLID principles)  
 
-<hr/>
+---
+
+## 🛡 Cyber Range Work (Ongoing)
+
+I am actively enrolled in the [Skool Cyber Range](https://www.skool.com/cyber-range), where I practice real-world cybersecurity scenarios and document my progress.  
+
+### Areas of Focus  
+- **Vulnerability Management** – Identifying, assessing, and remediating security weaknesses  
+- **Threat Hunting** – Investigating anomalies and building detection strategies  
+- **Incident Response** – Practicing response workflows in simulated attack scenarios  
+- **Security Research** – Exploring adversary tactics, techniques, and procedures (TTPs)  
+
+### Tools & Skills Practiced  
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white&style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=for-the-badge)
+
+*(Repository for documentation coming soon!)*  
+
+---
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/___________
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+[twitter]: https://twitter.com/___________  
+[youtube]: https://www.youtube.com/c/___________  
+[instagram]: https://www.instagram.com/___________  
+[linkedin]: https://linkedin.com/in/jon-uldrick  
