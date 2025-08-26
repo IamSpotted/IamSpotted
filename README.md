@@ -42,15 +42,17 @@ I am actively enrolled in the [Skool Cyber Range](https://www.skool.com/cyber-ra
 - **Incident Response** – Practicing response workflows in simulated attack scenarios  
 - **Security Research** – Exploring adversary tactics, techniques, and procedures (TTPs)  
 
-### Tools & Skills Practiced  
+### 🛠️ Tools & Skills Practiced
 
-![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white&style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=for-the-badge)
+<div>
+  <img src="https://img.shields.io/badge/Nessus-FF0000?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus" />
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Sentinel" />
+  <img src="https://img.shields.io/badge/KQL-0096D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="KQL" />
+  <img src="https://img.shields.io/badge/NIST%20Framework-FF6600?style=for-the-badge" alt="NIST Framework" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=for-the-badge" alt="MITRE ATT&CK" />
+</div>
 
 *(Repository for documentation coming soon!)*  
 
