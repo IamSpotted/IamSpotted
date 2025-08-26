@@ -1,9 +1,5 @@
 # <a href="https://www.linkedin.com/in/jon-uldrick/">Jon Uldrick</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius: 50%;" />
-</p>
-
 I’m passionate about IT and cybersecurity, and I enjoy building solutions that solve real-world problems. My portfolio highlights my most significant project — an application built with .NET MAUI — along with my ongoing work in the Cyber Range, where I practice and document vulnerability management, threat hunting, and other security operations skills.  
 
 ### 📜 Certifications
