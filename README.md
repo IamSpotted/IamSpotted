@@ -14,7 +14,7 @@ I’m passionate about IT and cybersecurity, and I enjoy building solutions that
 
 ---
 
-## 📱 MAUI Application — ITSF App (V2.1)
+## 📱 MAUI Application — ITSF Unified App (still in development)
 
 - **[ITSF Application (V2.1)](https://github.com/IamSpotted/ITSF-App-V2.1)**  
   A cross-platform .NET MAUI application developed for IT operations and automation.  
