@@ -42,6 +42,16 @@ I am actively enrolled in the [Skool Cyber Range](https://www.skool.com/cyber-ra
 - **Incident Response** – Practicing response workflows in simulated attack scenarios  
 - **Security Research** – Exploring adversary tactics, techniques, and procedures (TTPs)  
 
+### Projects & Repositories
+
+#### 📝 Vulnerability Management
+- **[Vulnerability Management Program](https://github.com/IamSpotted/Vulnerability-Management-Program)**  
+  Documentation and scripts for identifying and remediating vulnerabilities in simulated environments.
+
+#### 🔍 Threat Hunting
+- **[Threat Hunting Exercises](https://github.com/IamSpotted/Threat-Hunting)**  
+  Sample threat-hunting scenarios, analysis, and detection techniques practiced in the Cyber Range.  
+
 ### 🛠️ Tools & Skills Practiced
 
 <div>
@@ -54,8 +64,6 @@ I am actively enrolled in the [Skool Cyber Range](https://www.skool.com/cyber-ra
   <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=for-the-badge" alt="MITRE ATT&CK" />
 </div>
 
-*(Repository for documentation coming soon!)*  
-
 ---
 
 ## 🤳 Connect With Me
@@ -66,7 +74,7 @@ I am actively enrolled in the [Skool Cyber Range](https://www.skool.com/cyber-ra
 </a>
 
 <!-- X (switches between black & white depending on theme) -->
-<a href="https://x.com/YOURUSERNAME" target="_blank">
+<a href="https://x.com/jonuldrick" target="_blank">
   <picture>
     <source srcset="Assets/X-white.png" media="(prefers-color-scheme: dark)">
     <source srcset="Assets/X-black.png" media="(prefers-color-scheme: light)">
@@ -75,7 +83,7 @@ I am actively enrolled in the [Skool Cyber Range](https://www.skool.com/cyber-ra
 </a>
 
 <!-- YouTube (black/white switching) -->
-<a href="https://youtube.com/@YOURUSERNAME" target="_blank">
+<a href="https://youtube.com/@i_am_spotted" target="_blank">
   <picture>
     <source srcset="Assets/yt-white.png" media="(prefers-color-scheme: dark)">
     <source srcset="Assets/yt-black.png" media="(prefers-color-scheme: light)">
