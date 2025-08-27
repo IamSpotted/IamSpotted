@@ -2,7 +2,7 @@
 
 I’m passionate about IT and cybersecurity, and I enjoy building solutions that solve real-world problems. My portfolio highlights my most significant project — an application built with .NET MAUI — along with my ongoing work in the Cyber Range, where I practice and document vulnerability management, threat hunting, and other security operations skills.  
 
-### 📜 Certifications
+### 📜 Certifications & Achievements
 
 <div>
   <a href="https://www.credly.com/badges/d10c1fa5-c0fd-4991-a165-91228e0acbec/public_url">
