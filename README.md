@@ -62,7 +62,7 @@ I am actively enrolled in the [Skool Cyber Range](https://www.skool.com/cyber-ra
 
 <!-- LinkedIn (just one PNG, since it's already colorized) -->
 <a href="https://www.linkedin.com/in/jonuldrick" target="_blank">
-  <img src="Assets/LI-logo.png" alt="LinkedIn" height="40">
+  <img src="Assets/LI-Logo.png" alt="LinkedIn" height="40">
 </a>
 
 <!-- X (switches between black & white depending on theme) -->
