@@ -66,6 +66,16 @@ I am actively enrolled in the [Skool Cyber Range](https://www.skool.com/cyber-ra
 
 ---
 
+## 📝 Blog & Articles (Archive)
+
+I’ve documented past projects, tutorials, and exercises on my website: [iamspotted.com](https://iamspotted.com/)  
+
+Examples of past content include:  
+- TryHackMe room walkthroughs and write-ups  
+- Guides on setting up and using Gophish for phishing simulations
+  
+---
+
 ## 🤳 Connect With Me
 
 <!-- LinkedIn (just one PNG, since it's already colorized) -->
