@@ -60,12 +60,17 @@ I am actively enrolled in the [Skool Cyber Range](https://www.skool.com/cyber-ra
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/jonuldrick  
-[youtube]: https://www.youtube.com/@i_am_spotted  
-[instagram]: https://www.instagram.com/___________  
-[linkedin]: https://linkedin.com/in/jon-uldrick  
+<p align="center">
+  <a href="https://x.com/jonuldrick">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="40" height="40" />
+  </a>
+  <a href="https://youtube.com/@i_am_spotted">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" width="40" height="40" />
+  </a>
+  <a href="https://instagram.com/YourHandle">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/jon-uldrick">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+</p>
