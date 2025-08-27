@@ -24,7 +24,7 @@ I’m passionate about IT and cybersecurity, and I enjoy building solutions that
 ## 📱 MAUI Application — ITSF Unified App (still in development)
 
 - **[ITSF Application (V2.1)](https://github.com/IamSpotted/IT-Unified-App)**  
-  A cross-platform .NET MAUI application developed for IT operations and automation.  
+  A .NET MAUI application developed for IT operations and automation.  
   - Modular framework for managing and executing PowerShell and Batch scripts  
   - Networking tools (multi-device ping dashboard, DNS lookups, etc.)  
   - Remote management features integrated into a clean GUI  
