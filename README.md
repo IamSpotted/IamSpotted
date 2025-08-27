@@ -60,17 +60,25 @@ I am actively enrolled in the [Skool Cyber Range](https://www.skool.com/cyber-ra
 
 ## 🤳 Connect With Me
 
-<p align="center">
-  <a href="https://x.com/jonuldrick">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="40" height="40" />
-  </a>
-  <a href="https://youtube.com/@i_am_spotted">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" width="40" height="40" />
-  </a>
-  <a href="https://instagram.com/YourHandle">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40" />
-  </a>
-  <a href="https://linkedin.com/in/jon-uldrick">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
-</p>
+<!-- LinkedIn (just one PNG, since it's already colorized) -->
+<a href="https://www.linkedin.com/in/jonuldrick" target="_blank">
+  <img src="Assets/LI-logo.png" alt="LinkedIn" height="40">
+</a>
+
+<!-- X (switches between black & white depending on theme) -->
+<a href="https://x.com/YOURUSERNAME" target="_blank">
+  <picture>
+    <source srcset="Assets/X-white.png" media="(prefers-color-scheme: dark)">
+    <source srcset="Assets/X-black.png" media="(prefers-color-scheme: light)">
+    <img src="Assets/X-black.png" alt="X" height="40">
+  </picture>
+</a>
+
+<!-- YouTube (black/white switching) -->
+<a href="https://youtube.com/@YOURUSERNAME" target="_blank">
+  <picture>
+    <source srcset="Assets/yt-white.png" media="(prefers-color-scheme: dark)">
+    <source srcset="Assets/yt-black.png" media="(prefers-color-scheme: light)">
+    <img src="Assets/yt-black.png" alt="YouTube" height="40">
+  </picture>
+</a>
