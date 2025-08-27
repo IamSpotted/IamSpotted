@@ -65,7 +65,7 @@ I am actively enrolled in the [Skool Cyber Range](https://www.skool.com/cyber-ra
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/___________  
-[youtube]: https://www.youtube.com/c/___________  
+[twitter]: https://twitter.com/jonuldrick  
+[youtube]: https://www.youtube.com/@i_am_spotted  
 [instagram]: https://www.instagram.com/___________  
 [linkedin]: https://linkedin.com/in/jon-uldrick  
