@@ -49,7 +49,7 @@ I am actively enrolled in the [Skool Cyber Range](https://www.skool.com/cyber-ra
   Documentation and scripts for identifying and remediating vulnerabilities in simulated environments.
 
 #### 🔍 Threat Hunting
-- **[Threat Hunting Exercises](https://github.com/IamSpotted/Threat-Hunting)**  
+- **[Threat Hunting Exercises](https://github.com/IamSpotted/Threat-Hunting)**  (not started)
   Sample threat-hunting scenarios, analysis, and detection techniques practiced in the Cyber Range.  
 
 ### 🛠️ Tools & Skills Practiced
