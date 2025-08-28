@@ -15,7 +15,7 @@ I’m passionate about IT and cybersecurity, and I enjoy building solutions that
     <img src="https://images.credly.com/size/160x160/images/c3e2745b-2f30-4e6b-9290-f7557a705181/image.png" width="40" />
   </a>
   <a>
-    <img src="/Assets/Badges/CEH.png" width="40" />
+    <img src="Assets/Badges/CEH.png" width="40" />
   </a>
 </div>
 
